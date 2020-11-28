@@ -1,0 +1,97 @@
+﻿/* 1 */
+body{
+	font-family: 'Rubik', sans-serif;
+    position: relative;
+    background-image:url('gradient-background.jpg');
+  background-size: cover;
+
+}
+/* 2 */
+.auto-style1 {
+	text-align: center;
+}
+/* 3 */
+.auto-style2 {
+	font-size: medium;
+}
+/* 4 */
+.yakir{
+	border-radius: 50%;	
+}
+
+.lihi{
+	border-radius: 50%;	
+}
+
+/* 5 */
+#titlemenu{
+	text-align:center;
+	font-size:30px;
+}
+
+/* 6 */
+
+h1{
+	font-size:46px;
+	text-align:center;
+	color:black;
+	text-shadow: 0 0 15px red, 0 0 15px red;
+}
+
+h2{
+	font-size:36px;
+	text-align:center;
+	background-color:black;
+	color:white;
+	text-shadow: 0 0 15px purple, 0 0 15px purple;
+}
+
+h3{
+	font-size:22px;
+	text-align:center;
+	color:black;
+}
+
+h4{
+	font-size:18px;
+	text-align:center;
+	color:black;
+}
+
+
+.center{
+	text-align:center;
+	width: 100%;
+	color:white;
+	font-size:24px;
+	background-color:black;	 
+
+}
+
+hr{
+	height:7px;
+	background-color:black;
+	
+}
+/* 7 */
+.tab{
+	text-align:center;
+	font-size:small;	 
+
+}
+#aboutme:hover{
+		font-size:48px;
+
+}
+/* 9 */
+#aboutme{
+	border: 2px solid; 
+	border-top-color:black;
+	border-left-color:black; 
+	border-bottom-color:black; 
+	border-right-color:black;
+	border-color:black;
+	font-size:24px;
+	color:#CC0000;
+}
+
